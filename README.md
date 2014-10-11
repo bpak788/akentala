@@ -2,16 +2,16 @@
 ## Alice Kentala
 ---
 1. *Set Up Server*
-  ## Create non root user
+  ###### Create non root user
 
 2. *Make Git Repo*
-  ## On github.com
+  ###### On github.com
 
 3. *Install Git*
-  ## sudo apt-get install git-core
+  ###### sudo apt-get install git-core
 
 4. *Configure Git*
-  ## git config
+  ###### git config
 
 5. *Configure Apache*
 
@@ -20,10 +20,10 @@
 7. *Merge*
 
 8. *Test*
-  ##stageServer
+  ######stageServer
 
 9. *Push to Staging Server*
-  ## git push stageServer master
+  ###### git push stageServer master
 
 10. *Push to Production Server*
-  ## git push prodServer master
+  ###### git push prodServer master
