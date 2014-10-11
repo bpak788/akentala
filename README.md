@@ -13,11 +13,11 @@
 4. *Configure Git*
   ## git config
 
-5.*Configure Apache*
+5. *Configure Apache*
 
 6. *Configure Local and Remote Directory*
 
-7.*Merge*
+7. *Merge*
 
 8. *Test*
   ##stageServer
